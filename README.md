@@ -1,7 +1,7 @@
 # Life Course Center Aging and Health Launchpad
 This repository within umn-isrdi provides the materials necessary for replicating the data analysis and data visualization from the [Life Course Center's](https://lcc.umn.edu/) [Aging and Health Launchpad](https://lcc.umn.edu/aging-and-health-launchpad) articles.
 For each article, the following documents are provided:
-1. A Word document containing a link to the article on the Aging and Health Launchpad site, and a description of the IPUMS data extract used to perform the data analysis, and a description of any other data used, if applicable.
+1. A text file (.md) containing a link to the article on the Aging and Health Launchpad site; a description of the IPUMS data extract used to perform the data analysis, and a description of any other data used, if applicable; and citation information.
 2. A json data extract definition, which can be used to submit a data extract request via the [IPUMS API](https://developer.ipums.org/docs/v2/apiprogram/).
 3. A Stata .do file to replicate the data analysis and data visualization in the article.
 
